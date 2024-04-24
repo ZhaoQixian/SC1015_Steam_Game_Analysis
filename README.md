@@ -9,7 +9,12 @@ Our dataset is on steam games and contains the name, release date, developer and
 ## Problem Statement
 We want to find out the relationships between different features of a game and it's rating, in order to determine which features a game developer should consider or focus on to create a game that does well in the steam games website.
 ## Machine Learning Models
-Linear Regression\Decision Tree\Random Forest\Text Mining \Sentiment Analysis \Support Vector Regressions
+Linear Regression   
+Decision Tree   
+Random Forest   
+Text Mining   
+Sentiment Analysis    
+Support Vector Regressions
 ## Results
 We drew the conclusion that the most likely factor to influence the rating of steam video games is the percentage of users who left a review (review_percentage). We also found that models such as the text mining model were useful in finding out which themes were most common in each genre of video games, which could also be useful in the development of games in a specific genre. Exploratory data analysis also showed us that the type of technology used to create these games affects it's rating, and hence developers should also consider this when deciding what type of technology to use in the creation of their games.
 
