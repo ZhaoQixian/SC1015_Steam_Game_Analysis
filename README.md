@@ -36,6 +36,7 @@ Lastly, the analysis highlighted that specific genres, including Indie, Casual, 
 ## Links
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/whigmalwhim/steam-releases)
+[Youtube Link to Presentation](https://www.youtube.com/watch?v=tVbijpN8ZHs)
 ## Team Members
 | Team Member | Email |
 | ------------- | ------------- |
