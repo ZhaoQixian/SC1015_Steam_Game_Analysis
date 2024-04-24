@@ -31,4 +31,16 @@ Allen Lu Zhao Quan
 Kriti Raja
 Zhao Qixian
 
+
+| Team Member | Email |
+| ------------- | ------------- |
+|Allen Lu Zhao Quan|ALLE0002@e.ntu.edu.sg|
+|Kriti Raja|kriti006@e.ntu.edu.sg|
+|Zhao Qixian|qzhao010@e.ntu.edu.sg|
+
 # Contributions
+| Part | Name |
+| ------------- | ------------- |
+| Data Cleaning and Preparation | Allen, Qixian  |
+| Visualisation and Exploratory Data Analysis  | Allen, Qixian, Kriti |
+| Machine Learning Models  | Qixian, Kriti |
