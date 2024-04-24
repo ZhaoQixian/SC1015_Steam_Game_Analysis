@@ -16,12 +16,12 @@ Text Mining
 Sentiment Analysis
 Support Vector Regressions
 ## Results
-We drew the conclusion that the most likely factor to influence the rating of steam video games is the percentage of users who left a review (review_percentage).
-The text mining model was also useful in discerning which themes were most popular in each genre of video game. Train and test accuracy were not high in all machine learning models. The better performing models where those that could effectively deal with mixed data, like multi-variate linear regression.
+We drew the conclusion that the most likely factor to influence the rating of steam video games is the percentage of users who left a review (review_percentage). The text mining model was also useful in discerning which themes were most popular in each genre of video game. Train and test accuracy were not high in all machine learning models. The better performing models where those that could effectively deal with mixed data, like multi-variate linear regression and random forest analysis.
 
 Possible reasons for the poor performing models include:
 - There are other variables not found in this dataset that also affect rating of a game, such as the country where the game was developed / target audience of a game by age group.
 - Not enough genres are considered, as the genres that were unknown were removed at the start of the analysis.
+- A lot of data was removed during the data cleaning process due to null values, which may have led to inaccurate analysis of effect of variables on rating of steam video games.
 
 
 ## Links
