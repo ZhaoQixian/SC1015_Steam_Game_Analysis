@@ -16,9 +16,11 @@ Text Mining
 Sentiment Analysis    
 Support Vector Regressions
 ## Results
-We drew the conclusion that the most likely factor to influence the rating of steam video games is the percentage of users who left a review (review_percentage). We also found that models such as the text mining model were useful in finding out which themes were most common in each genre of video games, which could also be useful in the development of games in a specific genre. Exploratory data analysis also showed us that the type of technology used to create these games affects it's rating, and hence developers should also consider this when deciding what type of technology to use in the creation of their games.
+Our analysis revealed that the primary factor likely to influence the ratings of Steam video games is the review percentage, which is the proportion of users who leave a review. Additionally, we utilized text mining models to discern prevalent themes across different video game genres. This insight is particularly valuable for developers focusing on genre-specific game development, as it helps tailor content to meet the expectations and preferences of target audiences.
 
-Train and test accuracy were not high in all machine learning models. The better performing models where those that could effectively deal with mixed data, like multi-variate linear regression and random forest analysis. 
+Further exploratory data analysis indicated that the technology used in game development significantly impacts game ratings. Therefore, developers should carefully select their technology platforms to enhance game performance and player satisfaction.
+
+However, the accuracy levels in our machine learning models varied, with not all models achieving high train and test accuracies. The more successful models were those capable of handling mixed data types effectively. Models such as multivariate linear regression and random forest analysis stood out for their ability to integrate and analyze diverse datasets, leading to more reliable predictions of game ratings. These findings suggest that choosing the right analytical models is crucial for developers and analysts aiming to gain meaningful insights from complex and varied data in the video game industry.
 
 Possible reasons for the poor performing models include:
 - There are other variables not found in this dataset that also affect rating of a game, such as the country where the game was developed / target audience of a game by age group.
