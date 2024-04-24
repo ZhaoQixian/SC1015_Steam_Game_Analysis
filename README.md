@@ -10,59 +10,25 @@ We want to help developers find out what they should consider in the development
 # Machine Learning Models
 Linear Regression
 Decision Tree
-Sentiment Analysis
-Support Vector Machine
 Random Forest
+Text Mining
+Sentiment Analysis
+Support Vector Regressions
 # Results
-Overall train and test accuracy was low despite trying various machine learning models. The better performing models where those that could effectively deal with mixed data, like decision trees and random forest. Although some conclusions could be drawn, such as "Games of the genre platform are more likely to also have higher global sales.", these conclusions hold less weight due to the low classification accuracies.
-Possible reasons for the poor classifications include:
-There are other variables not found in this dataset that better explain the distribution of global sales. (e.g. Developer type: AAA, indie etc.)
-Genres provided are not specific enough to gather sufficient insight. (e.g. "Shooter" is a genre provided, but it can be divided into subcategories like first-person shooter or third-person shooter, which might help us get better results if, for example, there are more global sales for a first-person shooter.)
-Genres provided do not consider intermingling of genres. (e.g. A "Platformer" often incooperates "Puzzle" elements, but in this dataset, games are only assigned one genre, so this is not considered.)
-Not enough genres are considered. (e.g. Genres such as single-player and multiplayer are not included in the dataset)
+We drew the conclusion that the most likely factor to influence the rating of steam video games is the percentage of users who left a review (review_percentage).
+The text mining model was also useful in discerning which themes were most popular in each genre of video game. Train and test accuracy were not high in all machine learning models. The better performing models where those that could effectively deal with mixed data, like multi-variate linear regression.
+
+Possible reasons for the poor performing models include:
+- There are other variables not found in this dataset that also affect rating of a game, such as the country where the game was developed / target audience of a game by age group.
+- Not enough genres are considered, as the genres that were unknown were removed at the start of the analysis.
 
 
 # Links
-[Kaggle Dataset] (https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat)
+[Kaggle Dataset] (
 [Video Presentation]
 # Team Members
-Name
-Email
-Chong Geng Yang
-gchong016@e.ntu.edu.sg
-Jin Qingyang
-JINQ0003@e.ntu.edu.sg
-Li Zhiyuan
-d220009@e.ntu.edu.sg
+Allen Lu Zhao Quan
+Kriti Raja
+Zhao Qixian
 
-Contributions
-Part
-Name
-Data Cleaning
-Geng Yang
-
-
-Qingyang
-
-
-Zhiyuan
-Exploratory Data Analysis
-Geng Yang
-
-
-Qingyang
-
-
-Zhiyuan
-Machine Learning Models
-Qingyang
-
-
-Zhiyuan
-Additional Research
-Geng Yang
-
-
-Qingyang
-
-
+# Contributions
