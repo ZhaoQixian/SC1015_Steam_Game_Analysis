@@ -24,8 +24,8 @@ Possible reasons for the poor performing models include:
 
 
 ## Links
-[Kaggle Dataset]([https://www.kaggle.com/datasets/whigmalwhim/steam-releases])
-[Video Presentation]
+
+[Kaggle Dataset]([url](https://www.kaggle.com/datasets/whigmalwhim/steam-releases))
 ## Team Members
 | Team Member | Email |
 | ------------- | ------------- |
