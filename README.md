@@ -1,7 +1,7 @@
 # SC1015_Steam_Game_Analysis
-NTU AY2023/2024 Semester 2 SC1015 Group Project
+NTU AY2023/2024 Semester 2 SC1015 Group Project FDAC Team 1
 
-Our group choose a kaggle dataset about steam video games and their ratings to analyse the factors that contribute to the rating of steam video games.
+Our group chose a kaggle dataset about steam video games and their ratings to analyse the factors that contribute to the rating of steam video games.
 
 # Project Summary
 ## Dataset
