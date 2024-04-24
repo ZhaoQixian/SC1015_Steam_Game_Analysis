@@ -1,5 +1,5 @@
 # SC1015_Steam_Game_Analysis
-This is a student project done by NTU students for course SC1015 
+NTU AY2023/2024 Semester 2 SC1015 Group Project
 Our group choose a kaggle dataset about steam video games and their ratings to analyse the factors that contribute to the rating of steam video games.
 
 # Project Summary
@@ -24,7 +24,7 @@ Possible reasons for the poor performing models include:
 
 
 ## Links
-[Kaggle Dataset] (
+[Kaggle Dataset]([https://www.kaggle.com/datasets/whigmalwhim/steam-releases])
 [Video Presentation]
 ## Team Members
 | Team Member | Email |
