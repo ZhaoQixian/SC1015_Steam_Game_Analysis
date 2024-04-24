@@ -7,7 +7,7 @@ Our group chose a kaggle dataset about steam video games and their ratings to an
 ## Dataset
 Our dataset is on steam games and contains the name, release date, developer and publisher of the game, rating, number of positive and negative reviews, total reviews, technologies used in creating the game, the all-time peak number of players of the game, and the last modification time of the game.
 ## Problem Statement
-We want to help developers find out what they should consider in the development of a game to create a game that does well.
+We want to find out the relationships between different features of a game and it's rating, in order to determine which features a game developer should consider or focus on to create a game that does well in the steam games website.
 ## Machine Learning Models
 Linear Regression
 Decision Tree
